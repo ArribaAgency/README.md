@@ -6,7 +6,7 @@
 
 
 
-[![Linkedin: Arriba Agency](https://img.shields.io/badge/-arriba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/arriba-agency/)](https://www.linkedin.com/company/arriba-agency)
+[![Linkedin: Arriba Agency](https://img.shields.io/badge/-Arriba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/arriba-agency/)](https://www.linkedin.com/company/arriba-agency)
 
 
 
