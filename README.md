@@ -1,5 +1,4 @@
-
-**Happy to see you here!** :star_struck: <br> :running_man: - Welcome to Aribba.
+ 👋: - Welcome to Aribba.
 
 - 🔭 Find our media services here [Arriba](https://arriba.lol/) 
 
