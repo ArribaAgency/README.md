@@ -1,6 +1,6 @@
- 👋: - Welcome to Aribba.
+ 👋 Welcome to Aribba.
 
-- 🔭 Find our media services here [Arriba](https://arriba.lol/) 
+🔭 Find our media services here [Arriba](https://arriba.lol/) 
 
 
 
